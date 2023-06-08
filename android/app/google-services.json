@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599098888043",
+    "project_id": "fltprojectv3",
+    "storage_bucket": "fltprojectv3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599098888043:android:4a729d6d442b1612b6462e",
+        "android_client_info": {
+          "package_name": "com.example.fltproject_v3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599098888043-ficu77aegt3ltof43vv4bu868k0snet1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDobyTSQxTYTydmY66lt6vtl7-uLkjKo_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599098888043-ficu77aegt3ltof43vv4bu868k0snet1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
